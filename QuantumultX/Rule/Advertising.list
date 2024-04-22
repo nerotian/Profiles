@@ -776,9 +776,6 @@ DOMAIN,u1.img.mobile.sina.cn,REJECT
 DOMAIN,sax.sina.com.cn,REJECT
 DOMAIN,saxs.sina.com.cn,REJECT
 DOMAIN,saxn.sina.com.cn,REJECT
-# > Snapcha‪t‬
-DOMAIN,ads.snapchat.com,REJECT
-DOMAIN,adsapi.snapchat.com,REJECT
 
 # (T)
 # --- (Tencent) ---

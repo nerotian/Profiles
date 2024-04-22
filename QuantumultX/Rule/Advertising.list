@@ -591,14 +591,6 @@ DOMAIN,mobads.baidu.com,REJECT
 DOMAIN,mobads-logs.baidu.com,REJECT
 DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
-# > iQIYI
-DOMAIN,t7z.cupid.iqiyi.com,REJECT
-DOMAIN,t7z.cupid.ptqy.gitv.tv,REJECT
-IP-CIDR,101.227.97.240/32,REJECT
-IP-CIDR,101.227.200.11/32,REJECT
-IP-CIDR,101.227.200.28/32,REJECT
-IP-CIDR,124.192.153.42/32,REJECT
-# ------
 # > ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN,ad.toutiao.com,REJECT
@@ -676,15 +668,6 @@ DOMAIN,richmanmain.jxedt.com,REJECT
 DOMAIN,richmanrules.jxedt.com,REJECT
 
 # (K)
-# > Kingsoft
-DOMAIN,ad-stat.ksosoft.com,REJECT
-DOMAIN,img.auction-ads.wpscdn.cn,REJECT
-DOMAIN,counter.kingsoft.com,REJECT
-DOMAIN,counter.ksosoft.com,REJECT
-DOMAIN,minfo.wps.cn,REJECT
-DOMAIN,mobad.ijinshan.com,REJECT
-DOMAIN,ups.ksmobile.net,REJECT
-DOMAIN,ws.ksmobile.net,REJECT
 # > Kuaishou
 DOMAIN-SUFFIX,e.kuaishou.com,REJECT
 DOMAIN,js-ad.a.yximgs.com,REJECT
@@ -708,11 +691,6 @@ DOMAIN-SUFFIX,ads1.msn.com,REJECT
 DOMAIN-SUFFIX,ads2.msn.com,REJECT
 DOMAIN-SUFFIX,rads.msn.com,REJECT
 DOMAIN,mobileads.msn.com,REJECT
-# > MojiWeather
-DOMAIN,ad.api.moji.com,REJECT
-DOMAIN,adlaunch.moji.com,REJECT
-DOMAIN,ads.mojicdn.com,REJECT
-DOMAIN,v1.log.moji.com,REJECT
 
 # (N)
 # > NetEase
@@ -734,24 +712,6 @@ DOMAIN,yt-adp.nosdn.127.net,REJECT
 DOMAIN,yt-adp.ws.126.net,REJECT
 
 # (P)
-# > PPTV
-DOMAIN,ads.aplus.pptv.com,REJECT
-DOMAIN,ads.aplusapi.pptv.com,REJECT
-DOMAIN,asimgs.pplive.cn,REJECT
-DOMAIN,de.as.pptv.com,REJECT
-# > Photoable
-DOMAIN,regist.fotoable.com,REJECT
-DOMAIN,cdn.adapi.fotoable.com,REJECT
-# > PeanutWiFi
-DOMAIN,adnew.wifi8.com,REJECT
-DOMAIN,adfile.wifi8.com,REJECT
-# > PConline
-DOMAIN,ad-analysis.pconline.com.cn,REJECT
-DOMAIN,iad0ssl.pcauto.com.cn,REJECT
-DOMAIN,iad0ssl.pconline.com.cn,REJECT
-DOMAIN,imgad0.pcauto.com.cn,REJECT
-DOMAIN,imgad0.pconline.com.cn,REJECT
-DOMAIN,ivy.pchouse.com.cn,REJECT
 # > Phoenix New Media
 DOMAIN-SUFFIX,deliver.ifeng.com,REJECT
 DOMAIN,api.newad.ifeng.com,REJECT
@@ -762,9 +722,6 @@ DOMAIN,ifengad.3g.ifeng.com,REJECT
 DOMAIN,ad.qingting.fm,REJECT
 DOMAIN,adlaunch.qingting.fm,REJECT
 DOMAIN,ad-cdn.qingting.fm,REJECT
-# > OPPO
-DOMAIN-SUFFIX,ads.oppomobile.com,REJECT
-DOMAIN,adsfs.oppomobile.com,REJECT
 
 # (S)
 # > Sina
@@ -907,8 +864,6 @@ DOMAIN,ads-img-qc.xhscdn.com,REJECT
 DOMAIN,ads-video-al.xhscdn.com,REJECT
 DOMAIN,ads-video-qc.xhscdn.com,REJECT
 DOMAIN,t-ads.xiaohongshu.com,REJECT
-
-# (Y)
 
 # (Z)
 # > Zhihu

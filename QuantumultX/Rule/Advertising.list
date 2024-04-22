@@ -776,13 +776,6 @@ DOMAIN,u1.img.mobile.sina.cn,REJECT
 DOMAIN,sax.sina.com.cn,REJECT
 DOMAIN,saxs.sina.com.cn,REJECT
 DOMAIN,saxn.sina.com.cn,REJECT
-# > SOHU
-DOMAIN-SUFFIX,ad.sohu.com,REJECT
-DOMAIN-SUFFIX,ads.sohu.com,REJECT
-DOMAIN-SUFFIX,aty.sohu.com,REJECT
-DOMAIN,imp.optaim.com,REJECT
-DOMAIN,v2.reachmax.cn,REJECT
-DOMAIN,hui.sohu.com,REJECT
 # > Snapcha‪t‬
 DOMAIN,ads.snapchat.com,REJECT
 DOMAIN,adsapi.snapchat.com,REJECT

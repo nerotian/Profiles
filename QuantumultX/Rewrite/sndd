@@ -1,6 +1,6 @@
+# > 少年得到 解锁课程vip
 
 [rewrite_local]
-# > 少年得到 解锁课程vip
 ^https?:\/\/igetcool-gateway.igetcool.com\/(api\/product\/course\/option\/course\/audios|app-api-product|app-api-user-server).*$ url script-response-body https://raw.githubusercontent.com/WeiGiegie/666/main/sndd.js
 
 [mitm] 

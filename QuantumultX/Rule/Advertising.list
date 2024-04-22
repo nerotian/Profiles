@@ -888,7 +888,7 @@ host-keyword, tui.weibo.com, REJECT
 host-keyword, wax.weibo.com.cn, REJECT
 host-keyword, ad.weibo.com, REJECT
 host-keyword, adstrategy.biz.weibo.com, REJECT
-;host-keyword, s.weibo.com, REJECT
+host-keyword, s.weibo.com, REJECT
 host-keyword, vs.biz.weibo.com, REJECT
 # 微博开屏广告预加载
 host, bootpreload.uve.weibo.com, REJECT

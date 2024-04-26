@@ -569,15 +569,6 @@ DOMAIN,pl.cp31.ott.cibntv.net,REJECT
 DOMAIN,optimus-ads.amap.com,REJECT
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com,REJECT
 # ------
-# > Autohome
-DOMAIN,adproxy.autohome.com.cn,REJECT
-DOMAIN,rd.autohome.com.cn,REJECT
-DOMAIN,al.autohome.com.cn,REJECT
-DOMAIN,applogapi.autohome.com.cn,REJECT
-DOMAIN,adm0.autoimg.cn,REJECT
-DOMAIN,adm1.autoimg.cn,REJECT
-DOMAIN,adm2.autoimg.cn,REJECT
-DOMAIN,adm3.autoimg.cn,REJECT
 
 # (B)
 # --- (Baidu) ---
@@ -595,22 +586,6 @@ DOMAIN,nsclick.baidu.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN,ad.toutiao.com,REJECT
 DOMAIN,pangolin.snssdk.com,REJECT
-# > baicizhan
-DOMAIN,advertise.baicizhan.com,REJECT
-DOMAIN,advertise.baicizhan.org,REJECT
-# > BitAuto
-DOMAIN,adx.yiche.com,REJECT
-DOMAIN,log.ycapp.yiche.com,REJECT
-# > Braze
-DOMAIN-SUFFIX,iad.appboy.com,REJECT
-DOMAIN-SUFFIX,iad-03.appboy.com,REJECT
-DOMAIN-SUFFIX,iad-01.braze.com,REJECT
-DOMAIN-SUFFIX,iad-02.braze.com,REJECT
-DOMAIN-SUFFIX,iad-03.braze.com,REJECT
-DOMAIN-SUFFIX,iad-04.braze.com,REJECT
-DOMAIN-SUFFIX,iad-05.braze.com,REJECT
-DOMAIN-SUFFIX,iad-06.braze.com,REJECT
-DOMAIN-SUFFIX,iad-08.braze.com,REJECT
 
 # (C)
 # > CCTVVideo
@@ -625,13 +600,6 @@ DOMAIN,ad.21cn.com,REJECT
 DOMAIN,ad.k.21cn.com,REJECT
 DOMAIN,admarket.21cn.com,REJECT
 DOMAIN,adshows.21cn.com,REJECT
-# > Chelaile
-DOMAIN,atrace.chelaile.net.cn,REJECT
-DOMAIN,logs.chelaile.net.cn,REJECT
-# > Camera360
-DOMAIN,dispatcher.360in.com,REJECT
-DOMAIN,ad.360in.com,REJECT
-DOMAIN,exp.360in.com,REJECT
 
 # (G)
 # > Google
@@ -643,29 +611,8 @@ DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN,ads.youtube.com,REJECT
 
 # (H)
-# > HunanTV
-DOMAIN-SUFFIX,da.mgtv.com,REJECT
-DOMAIN-SUFFIX,da.hunantv.com,REJECT
-DOMAIN-SUFFIX,log.hunantv.com,REJECT
-DOMAIN-SUFFIX,v2.hunantv.com,REJECT
-# > Hupu
-DOMAIN,adx.hupu.com,REJECT
-DOMAIN,adx-api.hupu.com,REJECT
-DOMAIN,goblin.hupu.com,REJECT
-# > happycast
-DOMAIN,ad.hpplay.cn,REJECT
-DOMAIN,adc.hpplay.cn,REJECT
-DOMAIN,adcdn.hpplay.cn,REJECT
-DOMAIN,adeng.hpplay.cn,REJECT
-DOMAIN,pin.hpplay.cn,REJECT
-DOMAIN,rp.hpplay.cn,REJECT
-DOMAIN,rpt.hpplay.cn,REJECT
 
 # (J)
-# >jxedt
-DOMAIN,richmanapi.jxedt.com,REJECT
-DOMAIN,richmanmain.jxedt.com,REJECT
-DOMAIN,richmanrules.jxedt.com,REJECT
 
 # (K)
 # > Kuaishou
@@ -673,16 +620,6 @@ DOMAIN-SUFFIX,e.kuaishou.com,REJECT
 DOMAIN,js-ad.a.yximgs.com,REJECT
 
 # (L)
-# > Le
-DOMAIN-SUFFIX,webp2p.letv.com,REJECT
-DOMAIN,ark.letv.com,REJECT
-DOMAIN,emma-414870e223.huodonghezi.com,REJECT
-DOMAIN,g3.letv.com,REJECT
-DOMAIN,n.mark.letv.com,REJECT
-# > LinkWiFi
-DOMAIN,a.wkanx.com,REJECT
-DOMAIN,cwx.lianwangtech.com,REJECT
-DOMAIN,c1wx.lianwangtech.com,REJECT
 
 # (M)
 # > Microsoft
@@ -765,29 +702,8 @@ DOMAIN,stat.10jqka.com.cn,REJECT
 DOMAIN,admonitor.thepaper.cn,REJECT
 DOMAIN,adpai.thepaper.cn,REJECT
 DOMAIN,imgadpai.thepaper.cn,REJECT
-# > Thunder
-DOMAIN,adsp.xunlei.com,REJECT
-DOMAIN,etl.xlmc.sandai.net,REJECT
 
 # (V)
-# > VariFlight
-DOMAIN,adv-adlog.variflight.com,REJECT
-DOMAIN,adv-ads.variflight.com,REJECT
-DOMAIN,app-ad.variflight.com,REJECT
-# > vivo
-DOMAIN,adlog.vivo.com.cn,REJECT
-DOMAIN,adreq.vivo.com.cn,REJECT
-DOMAIN,ads-marketing-vivofs.vivo.com.cn,REJECT
-DOMAIN,adsdk.vivo.com.cn,REJECT
-DOMAIN,adsstatic.vivo.com.cn,REJECT
-DOMAIN,adxlog.vivo.com.cn,REJECT
-DOMAIN,vcardsdkservice.vivo.com.cn,REJECT
-DOMAIN-KEYWORD,stsdk.vivo.com.cn,REJECT
-DOMAIN-KEYWORD,stsdk.vivoglobal.com,REJECT
-# > Viber
-DOMAIN,ads.viber.com,REJECT
-DOMAIN,ads-d.viber.com,REJECT
-DOMAIN,ads.aws.viber.com,REJECT
 
 # (w)
 # > Weibo

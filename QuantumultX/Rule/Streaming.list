@@ -25,25 +25,6 @@ DOMAIN-SUFFIX,bbc.co.uk,Streaming
 DOMAIN-SUFFIX,bbci.co.uk,Streaming
 DOMAIN-KEYWORD,bbcfmt,Streaming
 DOMAIN-KEYWORD,uk-live,Streaming
-# > discovery+
-USER-AGENT,DPlus*,Streaming
-USER-AGENT,discovery+*,Streaming
-DOMAIN-SUFFIX,disco-api.com,Streaming
-DOMAIN-SUFFIX,discoveryplus.co.uk,Streaming
-DOMAIN-SUFFIX,discoveryplus.com,Streaming
-DOMAIN-SUFFIX,discoveryplus.in,Streaming
-DOMAIN-SUFFIX,dnitv.com,Streaming
-# DOMAIN,go-prod-vz.akamaized.net,Streaming
-DOMAIN,x-default-stgec.uplynk.com,Streaming
-DOMAIN-KEYWORD,discovery.uplynk.com,Streaming
-# > Disney+
-USER-AGENT,Disney+*,Streaming
-DOMAIN-SUFFIX,bamgrid.com,Streaming
-DOMAIN-SUFFIX,disneyplus.com,Streaming
-DOMAIN-SUFFIX,disney-plus.net,Streaming
-DOMAIN-SUFFIX,disneystreaming.com,Streaming
-DOMAIN-SUFFIX,dssott.com,Streaming
-DOMAIN,cdn.registerdisney.go.com,Streaming
 # > EMBY
 DOMAIN-SUFFIX,odysseyplus.site,Streaming
 DOMAIN-SUFFIX,odylife.org,Streaming

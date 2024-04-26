@@ -718,10 +718,6 @@ DOMAIN,api.newad.ifeng.com,REJECT
 DOMAIN,ifengad.3g.ifeng.com,REJECT
 
 # (Q)
-# > QingTing
-DOMAIN,ad.qingting.fm,REJECT
-DOMAIN,adlaunch.qingting.fm,REJECT
-DOMAIN,ad-cdn.qingting.fm,REJECT
 
 # (S)
 # > Sina

@@ -19,12 +19,6 @@ DOMAIN,tv.applemusic.com,Streaming
 DOMAIN,linear.tv.apple.com,Streaming
 DOMAIN,play-edge.itunes.apple.com,Streaming
 DOMAIN,uts-api.itunes.apple.com,Streaming
-# > BBC iPlayer
-USER-AGENT,BBCiPlayer*,Streaming
-DOMAIN-SUFFIX,bbc.co.uk,Streaming
-DOMAIN-SUFFIX,bbci.co.uk,Streaming
-DOMAIN-KEYWORD,bbcfmt,Streaming
-DOMAIN-KEYWORD,uk-live,Streaming
 # > EMBY
 DOMAIN-SUFFIX,odysseyplus.site,Streaming
 DOMAIN-SUFFIX,odylife.org,Streaming

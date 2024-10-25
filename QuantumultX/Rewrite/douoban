@@ -1,1 +1,6 @@
+ 
+hostname = api.douban.com
 
+
+^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash url reject-200
+^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* url reject-200

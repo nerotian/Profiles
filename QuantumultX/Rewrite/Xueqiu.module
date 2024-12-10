@@ -6,8 +6,7 @@
 URL-REGEX, ^http:\/\/119\.29\.29\.98\/d\?, REJECT
 
 [Rewrite]
-# 开屏广告
-^https:\/\/api\.xueqiu\.com\/snowpard\/launch_strategy\/query\.json\?channel=1&height=932 reject-dict
+
 # 自选 - 热门 - 横幅广告
 ^https:\/\/open\.xueqiu\.com\/mpaas\/config\/content\?.+home_visitor_relation_config reject-dict
 # 搜索页 - 横幅广告 / 雪球 - 推荐 - 横幅广告

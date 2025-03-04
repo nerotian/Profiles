@@ -1,0 +1,4 @@
+^https?:\/\/.*flyert.*\/api\/mobile\/index\.php\?module=advis url reject-200
+^https?:\/\/.*flyert.*\/source\/plugin\/mobile\/mobile\.php\?module=advis url reject-200
+^https?:\/\/.*flyert.*\/api\/mobile\/index\.php\?version=\d&mobile=yes&module=basicdata&type=forumlist url response-body adv response-body ddgksf2013
+^https?:\/\/.*flyert.*\/source\/plugin\/mobile\/mobile\.php\?module=threadpost&.+?&page=1 url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/fly.js

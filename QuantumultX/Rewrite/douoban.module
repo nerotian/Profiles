@@ -1,5 +1,5 @@
  
-hostname = api.douban.com
+hostname = api.douban.com,img*.douban.com, frodo.douban.com, erebor.douban.com
 
 ^https?:\/\/api\.douban\.com\/v\d\/app_ads\/ url reject-dict
 ^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* url reject-dict
